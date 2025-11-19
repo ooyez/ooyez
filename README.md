@@ -55,7 +55,8 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 - 화주/차주 구분 로그인  
 - 실시간 배송 매칭 및 상태 관리  
 - 관리자용 대시보드
-[![PDF](https://img.shields.io/badge/프로젝트_PDF-보기-F9D648?style=flat-square)](https://github.com/ooyez/ooyez/blob/main/2%EC%A1%B0(G2I4)3%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8ppt.pdf)
+📄 [프로젝트 소개 PDF 보기](https://github.com/ooyez/ooyez/blob/main/2%EC%A1%B0(G2I4)3%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8ppt.pdf)
+
 
 
 ---
