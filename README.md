@@ -50,7 +50,7 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 
 ### 📦 화물 운송 플랫폼 (Team Project)
 **Stack:** React, Spring Boot, MySQL, Flutter  
-**역할:** 로그인, 회원가입, 마이페이지 일부 기능, 관리자 페이지 백엔드  
+**역할:** 관리자 페이지, (앱)메인페이지
 **Features:**  
 - 화주/차주 구분 로그인  
 - 실시간 배송 매칭 및 상태 관리  
@@ -59,7 +59,8 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 ---
 
 ### 🎬 영화 예매 사이트 (Team Project)
-**Stack:** HTML, CSS, JavaScript  
+**Stack:** HTML, CSS, JavaScript
+**역할:** 로그인, 회원가입, 영화 상세 페이지  
 **Features:**  
 - 영화 선택 및 예매  
 - 로그인 / 회원가입  
