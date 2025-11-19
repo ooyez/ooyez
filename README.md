@@ -19,7 +19,7 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 ### 🔧 Backend  
 <img src="https://skillicons.dev/icons?i=spring,java" />
 
-### 📱 Mobile / App  
+### 📱 App  
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
 ### 🗄 Database  
