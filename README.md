@@ -5,7 +5,7 @@
 
 ## 🌼 About Me
 안녕하세요! 프론트엔드와 앱 개발을 중심으로  
-**사용자 친화적인 경험을 만드는 개발자 YEZ입니다.**  
+**사용자 친화적인 개발자 최예지입니다.**  
 UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움을 느낍니다.
 
 <br />
@@ -33,7 +33,12 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 
 ### Infra & DevOps
-
+<img src="https://img.shields.io/badge/Aiven-4C1D95?style=flat-square&logo=aiven&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 ### Collaboration
 </div>
 
