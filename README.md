@@ -47,15 +47,5 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 
 <br />
 
-## 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yez&show_icons=true&theme=graywhite&title_color=F9D648&icon_color=F5C000" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yez&layout=compact&theme=graywhite&title_color=F9D648" height="170" />
-
-</div>
-
-<br />
-
 ## 🌻 Contact
 📩 **Email:** c_dpwl@naver.com
