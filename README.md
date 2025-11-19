@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=Yellowt&height=300&section=header)
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder)
   
 </div>
 
