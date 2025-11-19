@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=yellowt&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
   
 </div>
 
@@ -17,7 +17,7 @@
   
   ## 🧱 Tech Stack
   ### Language
-  <!--Python-->
+  <!--JAVA-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
