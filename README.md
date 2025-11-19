@@ -66,7 +66,7 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 ---
 
 ### 🎬 영화 예매 사이트 (Team Project)
-**Stack:** HTML, CSS, JavaScript
+**Stack:** HTML, CSS, JavaScript  
 **역할:** 로그인, 회원가입, 영화 상세 페이지(프론트엔드)
 
 📄 [프로젝트 PPT](https://github.com/ooyez/ooyez/blob/main/%EB%8D%94%EC%A1%B0%EC%9D%80%EB%AC%B4%EB%B9%84.pdf)
