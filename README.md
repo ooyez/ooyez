@@ -29,7 +29,9 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 - **공지 및 문의사항 조회** 기능 개발
 - **운송료 조정** 페이지 구현
 
-📄 [프로젝트 PPT](https://github.com/ooyez/ooyez/blob/main/G2I4_%ED%99%94%EB%AC%BC%EC%9A%B4%EC%86%A1%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf)
+🔗 **배포 링크:** http://3.35.164.168/
+
+📄 [프로젝트 PPT(웹)](https://github.com/ooyez/ooyez/blob/main/G2I4_%ED%99%94%EB%AC%BC%EC%9A%B4%EC%86%A1%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf)
 
 📄 [프로젝트 PPT(앱 구현)](https://github.com/ooyez/ooyez/blob/main/2%EC%A1%B0(G2I4)3%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8ppt.pdf)
 
