@@ -79,39 +79,40 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 
 ### 🎬 영화 예매 사이트 (Team Project)
 
-> 사용자가 원하는 영화를 선택하고, 상세 정보를 확인한 뒤 예매까지 진행할 수 있는 영화 예매 웹 서비스  
-> Stack: HTML · CSS · JavaScript
+> 사용자가 원하는 영화를 선택하고, 상세 정보를 확인한 뒤 예매까지 진행할 수 있는 영화 예매 웹 서비스
+> 
+> Stack: HTML, CSS, JavaScript
 </br>
 
 
-### 👩‍💻 My Role
+**👩‍💻 My Role**
 
 **1. 로그인 기능 구현**
 사용자가 자신의 계정으로 서비스를 이용할 수 있도록  
 로그인 페이지 UI 및 유효성 검증을 구현했습니다.
 
-<img src="./images/movie_login.png" width="800px"/>
+<img src="./images/MovieLogin.png" width="800px"/>
 
 
 **2. 회원가입 페이지 구현**
 회원 정보 입력 및 가입 과정을 진행할 수 있는  
 회원가입 페이지 UI 및 기본 입력 검증 로직을 구현했습니다.
 
-<img src="./images/movie_signup.png" width="800px"/>
+<img src="./images/MovieSingup.png" width="800px"/>
 
 
 **3. 영화 상세 페이지**
 선택한 영화에 대한 상세 정보를 확인할 수 있도록  
 영화 포스터, 설명, 정보 영역을 구성하고 UI를 설계했습니다.
 
-<img src="./images/movie_detail.png" width="800px"/>
+<img src="./images/MoviePageDetail.png" width="800px"/>
 
 
 **4. 전체 영화 리스트 페이지**
 여러 영화를 한눈에 볼 수 있도록 리스트 페이지를 구성하고,  
 사용자가 원하는 영화를 쉽게 찾을 수 있도록 UI를 설계했습니다.
 
-<img src="./images/movie_list.png" width="800px"/>
+<img src="./images/MoviePageList.png" width="800px"/>
 
 
 ### 🔗 Links
