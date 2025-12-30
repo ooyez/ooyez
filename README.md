@@ -43,7 +43,7 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 - 운송료 조정 페이지 구현
 - 앱 내 메인페이지
 
-### 📸 구현 화면
+### 
 <img src="./images/AdminMem.png" width="700px"/>
 
 ### 🔗 링크
@@ -51,6 +51,36 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 - 🔥 **[서비스 바로가기](http://3.35.164.168/)** 
 
 - 📄 [웹 구현 PPT](./ppt/G2I4_화물운송프로젝트_최종본.pdf) / [앱 구현 PPT](./ppt/2조(G2I4)3차프로젝트ppt.pdf)
+
+
+### 👩‍💻 Key Contributions
+
+<details>
+  <summary>📊 이용 통계 조회 – Dashboard 구현</summary>
+  <br/>
+  - 관리자 대시보드 UI 구성  
+  - 통계 데이터 연동 및 시각화
+  <br/><br/>
+  <img src="./images/AdminMain.png" width="700px"/>
+</details>
+
+<details>
+  <summary>👥 회원 관리 – 역할별 조회 및 신고 처리</summary>
+  <br/>
+  - 회원 목록 조회
+  - 필터링 / 신고 관리 기능 구현
+  <br/><br/>
+  <img src="./images/AdminMem.png" width="700px"/>
+</details>
+
+<details>
+  <summary>🚚 배송 내역 조회 페이지 구현</summary>
+  <br/>
+  - 전체 배송 기록 조회
+  - 상태별 정렬 / 필터 기능
+  <br/><br/>
+  <img src="./images/AdminDeList.png" width="700px"/>
+</details>
 
 
 
