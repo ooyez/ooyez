@@ -52,60 +52,37 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 
 - 📄 [웹 구현 PPT](./ppt/G2I4_화물운송프로젝트_최종본.pdf) / [앱 구현 PPT](./ppt/2조(G2I4)3차프로젝트ppt.pdf)
 
-
 ### 👩‍💻 Key Contributions
 
-<details>
-  <summary><b>📊 이용 통계 조회 – Dashboard 구현</b></summary>
-  <br/>
+#### 📊 Dashboard – 이용 통계 조회 화면
+사용자가 운영 현황을 한눈에 파악할 수 있도록  
+대시보드 레이아웃과 주요 통계 UI를 설계하고 구현했습니다.
 
-  - 관리자 대시보드 UI 구성
-  - 통계 데이터 조회 & 시각화 기반 화면 설계
-
-  <br/>
-  <img src="./images/AdminMain.png" width="750px"/>
-</details>
+<img src="./images/AdminMain.png" width="800px"/>
 
 ---
 
-<details>
-  <summary><b>👥 회원 관리 – 역할별 조회 & 신고 관리</b></summary>
-  <br/>
+#### 👥 회원 관리 기능
+회원 목록 조회 및 역할(화주 / 차주 / 관리자)별 필터링,  
+신고 내역 확인 및 관리 기능을 구현했습니다.
 
-  - 회원 목록 조회 기능 구현
-  - 역할별(화주 / 차주 / 관리자) 데이터 필터링
-  - 신고 내역 관리 기능 구현
-
-  <br/>
-  <img src="./images/AdminMem.png" width="750px"/>
-</details>
+<img src="./images/AdminMem.png" width="800px"/>
 
 ---
 
-<details>
-  <summary><b>🚚 배송 내역 조회 페이지 구현</b></summary>
-  <br/>
+#### 🚚 배송 내역 조회
+전체 배송 기록을 한 번에 확인할 수 있도록 데이터 테이블 UI 구성,  
+상태별 정렬 / 검색 / 페이지네이션을 지원하도록 구현했습니다.
 
-  - 전체 배송 기록 조회 페이지 개발
-  - 데이터 테이블 UI 구성 및 정렬/페이지네이션 처리
-
-  <br/>
-  <img src="./images/AdminDeList.png" width="750px"/>
-</details>
+<img src="./images/AdminDeList.png" width="800px"/>
 
 ---
 
-<details>
-  <summary><b>🛠️ 운송료 조정 & 설정 관리</b></summary>
-  <br/>
+#### 🛠 운송료 조정 & 운영 관리
+관리자가 요금 정책을 유연하게 조정할 수 있도록  
+설정 페이지 UI 및 기능을 구현했습니다.
 
-  - 관리자 전용 운송료 조정 기능 구현
-  - 요금 정책 및 관리 기능 UI 설계
-
-  <br/>
-  <img src="./images/AdminAdd.png" width="750px"/>
-</details>
-
+<img src="./images/AdminAdd.png" width="800px"/>
 
 
 
