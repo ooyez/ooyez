@@ -51,12 +51,21 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 <img src="./images/AdminDeList01.png" width="800px"/>
 <img src="./images/AdminDeList.png" width="800px"/>
 
+
 **4. 🛠 운송료 조정 & 운영 관리**
 > 관리자가 요금 정책을 유연하게 조정할 수 있도록 운송료 설정 페이지를 구현하고,  
 > 사용자의 문의 상태(답변대기 / 답변완료)를 한눈에 확인할 수 있는 UI를 설계·구현했습니다. 
 
 <img src="./images/AdminAdd.png" width="800px"/>
 <img src="./images/AdminNotice.png" width="800px"/>
+
+
+**5. Mobile App – 메인 페이지 구현 (Flutter)**
+> Flutter를 활용하여 앱 메인 페이지를 설계·개발했습니다.  
+> 상단 AppBar, 하단 네비게이션 바, 메인 배너 UI, 공지사항 리스트를 구성하여  
+> 사용자가 주요 기능에 빠르게 접근할 수 있도록 직관적인 화면을 구현했습니다.
+> 
+<img src="./images/AppMain.png" width="800px"/>
 
 
 ### 🔗 Links
