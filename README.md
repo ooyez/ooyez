@@ -36,9 +36,9 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
       <!-- Backend -->
       <img src="https://img.shields.io/badge/Java-5382A1?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
       <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>
     </td>
     <td align="center" style="border:none;">
