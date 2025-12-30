@@ -28,7 +28,7 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 
 **Stack:** React, Spring Boot, MySQL, Flutter  
 
-## 👩‍💻 My Role
+#### 👩‍💻 My Role
 
 #### 📊 Dashboard – 이용 통계 조회 화면
 > 관리자가 운영 현황을 한눈에 파악할 수 있도록  
