@@ -56,31 +56,56 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 ### 👩‍💻 Key Contributions
 
 <details>
-  <summary>📊 이용 통계 조회 – Dashboard 구현</summary>
+  <summary><b>📊 이용 통계 조회 – Dashboard 구현</b></summary>
   <br/>
-  - 관리자 대시보드 UI 구성  
-  - 통계 데이터 연동 및 시각화
-  <br/><br/>
-  <img src="./images/AdminMain.png" width="700px"/>
+
+  - 관리자 대시보드 UI 구성
+  - 통계 데이터 조회 & 시각화 기반 화면 설계
+
+  <br/>
+  <img src="./images/AdminMain.png" width="750px"/>
 </details>
 
-<details>
-  <summary>👥 회원 관리 – 역할별 조회 및 신고 처리</summary>
-  <br/>
-  - 회원 목록 조회
-  - 필터링 / 신고 관리 기능 구현
-  <br/><br/>
-  <img src="./images/AdminMem.png" width="700px"/>
-</details>
+---
 
 <details>
-  <summary>🚚 배송 내역 조회 페이지 구현</summary>
+  <summary><b>👥 회원 관리 – 역할별 조회 & 신고 관리</b></summary>
   <br/>
-  - 전체 배송 기록 조회
-  - 상태별 정렬 / 필터 기능
-  <br/><br/>
-  <img src="./images/AdminDeList.png" width="700px"/>
+
+  - 회원 목록 조회 기능 구현
+  - 역할별(화주 / 차주 / 관리자) 데이터 필터링
+  - 신고 내역 관리 기능 구현
+
+  <br/>
+  <img src="./images/AdminMem.png" width="750px"/>
 </details>
+
+---
+
+<details>
+  <summary><b>🚚 배송 내역 조회 페이지 구현</b></summary>
+  <br/>
+
+  - 전체 배송 기록 조회 페이지 개발
+  - 데이터 테이블 UI 구성 및 정렬/페이지네이션 처리
+
+  <br/>
+  <img src="./images/AdminDeList.png" width="750px"/>
+</details>
+
+---
+
+<details>
+  <summary><b>🛠️ 운송료 조정 & 설정 관리</b></summary>
+  <br/>
+
+  - 관리자 전용 운송료 조정 기능 구현
+  - 요금 정책 및 관리 기능 UI 설계
+
+  <br/>
+  <img src="./images/AdminAdd.png" width="750px"/>
+</details>
+
 
 
 
