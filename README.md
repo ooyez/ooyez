@@ -23,7 +23,7 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
   <tr>
     <th>Frontend</th>
     <th>Backend</th>
-    <th>Mobile / Cross Platform</th>
+    <th>Mobile</th>
     <th>Tools</th>
     <th>Collaboration</th>
   </tr>
