@@ -12,7 +12,7 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 
 ## 🛠 기술스택
 
-<table align="center">
+<table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
     <th>Frontend</th>
     <th>Backend</th>
