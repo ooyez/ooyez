@@ -12,14 +12,6 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 
 ## 🛠 기술스택
 
-| **Languages** | **Frameworks & Libraries** | **Database** | **Tools** | **Collaboration** |
-|---------------|----------------------------|--------------|-----------|-------------------|
-| <img src="https://img.shields.io/badge/Java-5382A1?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> | <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> | <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> | <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/> <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/> | <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/> |
-
-<br />
-
-## 🛠 기술스택
-
 | **Frontend** | **Backend** | **Mobile / Cross Platform** | **Tools** | **Collaboration** |
 |---|---|---|---|---|
 | <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> | <img src="https://img.shields.io/badge/Java-5382A1?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> | <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> | <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/> | <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/> |
@@ -31,17 +23,11 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 
 ### 📦 **화물 운송 플랫폼 (Team Project)** 
 
-> 사용자(의뢰인/화물차주)간의 배송 접수부터 매칭, 관리까지 가능한 화물 운송 플랫폼
+> 사용자(의뢰인/화물차주)간의 배송 접수부터 매칭, 관리까지 가능한 화물 운송 플랫폼입니다
+> 관리자페이지와 앱 내 메인페이지를 구현했습니다.
 
 **Stack:** React, Spring Boot, MySQL, Flutter  
-**My Role:** 
-- 관리자 페이지 UI 및 기능 구현
-- 관리 대시보드 구성
-- 전체 배송 내역 조회 페이지 구성
-- 회원 관리(역할별 조회)
-- 공지사항 / 문의사항 조회 기능 개발
-- 운송료 조정 페이지 구현
-- 앱 내 메인페이지
+
 ### 👩‍💻 My Role
 
 #### 📊 Dashboard – 이용 통계 조회 화면
