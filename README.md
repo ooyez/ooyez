@@ -28,7 +28,7 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 
 **Stack:** React, Spring Boot, MySQL, Flutter  
 
-### 👩‍💻 My Role
+## 👩‍💻 My Role
 
 #### 📊 Dashboard – 이용 통계 조회 화면
 > 관리자가 운영 현황을 한눈에 파악할 수 있도록  
@@ -49,13 +49,14 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 > 상태별 정렬 및 검색을 지원하도록 구현했습니다.
 
 <img src="./images/AdminDeList.png" width="800px"/>
-
+<img src="./images/AdminDeList01.png" width="800px"/>
 
 #### 🛠 운송료 조정 & 운영 관리
-> 관리자가 요금 정책을 유연하게 조정할 수 있도록  
-> 설정 페이지 UI 및 기능을 구현했습니다.
+> 관리자가 요금 정책을 유연하게 조정할 수 있도록 운송료 설정 페이지를 구현하고,  
+> 사용자의 문의 상태(답변대기 / 답변완료)를 한눈에 확인할 수 있는 UI를 설계·구현했습니다. 
 
 <img src="./images/AdminAdd.png" width="800px"/>
+<img src="./images/AdminNotice.png" width="800px"/>
 
 
 ### 🔗 Links
