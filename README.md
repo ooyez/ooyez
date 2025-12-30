@@ -91,14 +91,14 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 > 사용자가 자신의 계정으로 서비스를 이용할 수 있도록  
 > 로그인 페이지 UI 및 유효성 검증을 구현했습니다.
 
-<img src="./images/MovieLogin.png" width="500px"/>
+<img src="./images/MovieLogin.png" width="300px"/>
 
 
 **2. 회원가입 페이지 구현**
 > 회원 정보 입력 및 가입 과정을 진행할 수 있는  
 > 회원가입 페이지 UI 및 기본 입력 검증 로직을 구현했습니다.
 
-<img src="./images/MovieSingup.png" width="500px"/>
+<img src="./images/MovieSingup.png" width="300px"/>
 
 
 **3. 영화 상세 페이지**
