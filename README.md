@@ -55,6 +55,7 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
       <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/>
     </td>
   </tr>
+</table>
 
 
 ## 🚀 Projects
