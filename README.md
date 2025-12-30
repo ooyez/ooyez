@@ -75,7 +75,6 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
       <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
       <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
     </td>
-
     <td align="center" style="border:none;">
       <!-- Backend -->
       <img src="https://img.shields.io/badge/Java-5382A1?style=flat-square&logoColor=white"/><br/>
@@ -85,19 +84,16 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
       <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
     </td>
-
     <td align="center" style="border:none;">
       <!-- Mobile -->
       <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
     </td>
-
     <td align="center" style="border:none;">
       <!-- Tools -->
       <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
     </td>
-
     <td align="center" style="border:none;">
       <!-- Collaboration -->
       <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
