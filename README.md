@@ -65,7 +65,7 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 > 상단 AppBar, 하단 네비게이션 바, 메인 배너 UI, 공지사항 리스트를 구성하여  
 > 사용자가 주요 기능에 빠르게 접근할 수 있도록 직관적인 화면을 구현했습니다.
 
-<img src="./images/AppMain.png" width="300px"/>
+<img src="./images/AppMainpage.png" width="300px"/>
 
 
 ### 🔗 Links
