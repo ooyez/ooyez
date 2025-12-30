@@ -136,8 +136,10 @@ UI/UX를 탐구하며 더 나은 인터페이스를 구현하는 데 즐거움�
 > 로그인 및 회원가입 UI를 구현하고
 > 입력값 유효성 검증을 통해 사용자 인증 기능을 구현했습니다.
 
-<img src="./images/MovieLogin.png" width="300px"/>
-<img src="./images/MovieSingup.png" width="300px"/>
+<p align="center">
+  <img src="./images/MovieLogin.png" width="300px"/>
+  <img src="./images/MovieSingup.png" width="300px"/>
+</p>
 
 
 **2. 영화 상세 페이지**
